@@ -53,11 +53,11 @@ Organized Python examples by difficulty level:
 3. Clone the repository to run or modify scripts locally:
 
 ```bash
-git clone https://github.com/ailcodes/pycodes.git
-
+git clone https://github.com/ailcodes/pycodes.git 
+```
 ---
 
-**## 🤝 Contribute**
+## 🤝 Contribute
 
 Want to contribute? Awesome!
 
@@ -69,7 +69,7 @@ All contributions are welcome and appreciated!
 
 ---
 
-**## 🔍 Related Keywords (for SEO)**
+## 🔍 Related Keywords (for SEO)
 
 python beginner code, learn python basics, python examples,  
 simple python scripts, python code for practice, python mini projects,  
@@ -78,7 +78,7 @@ python by examples, python exercises, python functions, python practice repo
 
 ---
 
-**## 📜 License**
+## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).  
 You are free to use, share, and modify it with attribution.
