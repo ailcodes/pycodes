@@ -5,21 +5,21 @@ Player2=input("Enter your name as Player 2 :  ")
 print(f"Player 1 is : {Player1} \nand \nPlayer 2 is : {Player2}")
 print("Let's start")
 game=["Rock", "Paper", "Scissor"]
-print(f"Hey {Player1}, make your choice from the following.")
+print(f"Hey {Player1}, make your choice from the followings.")
 print("1. Rock \n2.Paper \n3.Scissors")
-num1=int(input("Just input the number : "))
+num1=int(input("Choose any number : "))
 
 if num1==1:
     choice1=game[0]
 elif num1==2:
-    choice1==game[1]
+    choice1=game[1]
 elif num1==3:
-    choice1==game[2]
+    choice1=game[2]
 
 
-print(f"Hey {Player1}, make your choice from the following.")
+print(f"Hey {Player1}, make your choice from the followings.")
 print("1. Rock \n2.Paper \n3.Scissors")
-num2=int(input("Just input the number : "))
+num2=int(input("Choose any number : "))
 
 if num2==1:
     choice2=game[0]
